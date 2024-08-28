@@ -43,6 +43,8 @@ public class Question3 {
         x = 4; y = 333;
         System.out.println("Input: " + x + ", " + y + "\nOutput: " + Q4(x, y)); 
         x = 355; y = 113;
+        System.out.println("Input: " + x + ", " + y + "\nOutput: " + Q4(x, y)); 
+        x = 22; y = 7;
         System.out.println("Input: " + x + ", " + y + "\nOutput: " + Q4(x, y));  
     }
   }
